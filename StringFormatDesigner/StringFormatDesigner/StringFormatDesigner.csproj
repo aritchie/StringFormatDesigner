@@ -11,9 +11,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AiForms.SettingsView" Version="0.4.15" />
     <PackageReference Include="ReactiveUI.Fody" Version="9.13.1" />
-    <PackageReference Include="Xamarin.Forms" Version="3.6.0.264807" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.0.1" />
+    <PackageReference Include="Xamarin.Forms" Version="3.6.0.344457" />
   </ItemGroup>
 
   <ItemGroup>
